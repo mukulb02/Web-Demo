@@ -13,3 +13,6 @@ A social networking site is an online platform that allows users to create a pub
 - HTML
 - CSS
 - SQL
+
+## Tool
+- VSCode
